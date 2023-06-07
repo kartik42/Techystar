@@ -1,3 +1,6 @@
+# Techystar
+This project is made using REACT.jsx basic and for style SCSS is used.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
